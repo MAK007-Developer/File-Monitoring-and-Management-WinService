@@ -1,13 +1,13 @@
-File Monitoring & Management Windows Service
+#File Monitoring & Management Windows Service
 
 A Windows Service that monitors a directory, processes new files, and logs activity for traceability.
 
 
-📌 Overview
+##📌 Overview
 
 This Windows Service continuously watches a folder (configured in app.config) and performs automated file-handling tasks.
 
-✔ Features
+##✔ Features
 
 Detects new files added to the monitored directory
 
@@ -25,11 +25,11 @@ Windows Event Viewer
 
 Developed using Visual Studio 2022, C#, Windows Service (.NET Framework).
 
-🧪 Running the Service (Two Modes)
+##🧪 Running the Service (Two Modes)
 
 You can run the project in either Console Mode (development) or Service Mode (Windows service installation).
 
-🖥️ Console Mode (Recommended for Testing)
+###🖥️ Console Mode (Recommended for Testing)
 
 Open Visual Studio 2022 (ensure the .NET Desktop Development workload is installed).
 
@@ -39,7 +39,7 @@ Delete the default template files and add this project to your solution.
 
 Build and run the project in Release mode → the service runs in console form.
 
-⚙️ Service Mode (Install as Windows Service)
+###⚙️ Service Mode (Install as Windows Service)
 
 In Visual Studio, right-click the project → Open Folder in File Explorer.
 
@@ -72,7 +72,7 @@ If installation succeeds, you will see a success message.
 
 Open Services (Service Control Manager) → find your service → Start/Stop it manually.
 
-📝 Logging
+###📝 Logging
 
 Logs are written to:
 
@@ -80,7 +80,7 @@ A dedicated log file
 
 Windows Event Viewer (Application log)
 
-📂 Configuration
+###📂 Configuration
 
 Update your directory paths in app.config:
 
