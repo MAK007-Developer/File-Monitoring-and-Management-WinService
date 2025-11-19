@@ -1,0 +1,8 @@
+D:\Programming Advices\24. Windows Services\Projects\My Projects\FileManagementService\bin\Release\FileManagementService.exe.config
+D:\Programming Advices\24. Windows Services\Projects\My Projects\FileManagementService\bin\Release\FileManagementService.exe
+D:\Programming Advices\24. Windows Services\Projects\My Projects\FileManagementService\bin\Release\FileManagementService.pdb
+D:\Programming Advices\24. Windows Services\Projects\My Projects\FileManagementService\obj\Release\FileManagementService.csproj.AssemblyReference.cache
+D:\Programming Advices\24. Windows Services\Projects\My Projects\FileManagementService\obj\Release\FileManagementService.csproj.SuggestedBindingRedirects.cache
+D:\Programming Advices\24. Windows Services\Projects\My Projects\FileManagementService\obj\Release\FileManagementService.csproj.CoreCompileInputs.cache
+D:\Programming Advices\24. Windows Services\Projects\My Projects\FileManagementService\obj\Release\FileManagementService.exe
+D:\Programming Advices\24. Windows Services\Projects\My Projects\FileManagementService\obj\Release\FileManagementService.pdb
